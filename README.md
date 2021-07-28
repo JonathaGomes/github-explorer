@@ -11,7 +11,7 @@
 First clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/JonathaGomes/github-explorer && cd ediaristas
+$ git clone https://github.com/JonathaGomes/github-explorer && cd github-explorer
 
 # After that follow the steps below.
 
