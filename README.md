@@ -19,7 +19,7 @@ $ git clone https://github.com/JonathaGomes/github-explorer && cd ediaristas
 $ yarn
 
 # Starting the project
-$ yarn dev
+$ yarn start
 ```
 
 ## 💻️ Project
